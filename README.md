@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Louie!
+- 👋 Hi, I’m Louie Lacap!
 - 👀 I’m interested in ... becoming a Database Administrator
 - 🌱 I’m currently learning ... the basic/intermediate/advance SQL language
 - 💞️ I’m looking to collaborate on ... public data sets
