@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Louie Lacap!
-- 👀 I’m interested in ... becoming a Database Administrator
-- 🌱 I’m currently learning ... the basic/intermediate/advance SQL language
+- 👀 I’m interested in ... becoming a SQL Database Administrator
+- 🌱 I’m currently learning ... the basic/intermediate/advance SQL fundamentals.
 - 💞️ I’m looking to collaborate on ... public data sets
 - 📫 How to reach me ... louielacap@gmail.com
 
